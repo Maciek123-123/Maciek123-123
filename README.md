@@ -1,5 +1,4 @@
-- 👋 Hi, I’m @Maciek123-123
-- 👀 I’m interested in AI.
-- 🌱 I’m currently learning C++.
+- 👋 Hi, I’m @Maciek
+- 🌱 I’m currently learning C++ and Python.
 
 
